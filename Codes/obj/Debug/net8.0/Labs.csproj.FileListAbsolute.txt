@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AgeCalculator\bin\Debug\net8.0\Labs.exe
+C:\Users\Admin\source\repos\AgeCalculator\bin\Debug\net8.0\Labs.deps.json
+C:\Users\Admin\source\repos\AgeCalculator\bin\Debug\net8.0\Labs.runtimeconfig.json
+C:\Users\Admin\source\repos\AgeCalculator\bin\Debug\net8.0\Labs.dll
+C:\Users\Admin\source\repos\AgeCalculator\bin\Debug\net8.0\Labs.pdb
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.dll
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\refint\Labs.dll
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.pdb
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\Labs.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AgeCalculator\obj\Debug\net8.0\ref\Labs.dll

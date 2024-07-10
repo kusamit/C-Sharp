@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|c:\\users\\admin\\source\\repos\\chapterthree\\greek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|solutionrelative:greek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|c:\\users\\admin\\source\\repos\\chapterthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|c:\\users\\admin\\source\\repos\\chapterthree\\chapterthree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|solutionrelative:chapterthree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|c:\\users\\admin\\source\\repos\\chapterthree\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461558A8-9E98-45BD-A916-23A6F1436E6A}|ChapterThree.csproj|solutionrelative:hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Greek.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\Greek.cs",
+              "RelativeDocumentMoniker": "Greek.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\Greek.cs",
+              "RelativeToolTip": "Greek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:12:24.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hello.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\Hello.cs",
+              "RelativeDocumentMoniker": "Hello.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\Hello.cs",
+              "RelativeToolTip": "Hello.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:11:33.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChapterThree",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\ChapterThree.csproj",
+              "RelativeDocumentMoniker": "ChapterThree.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\ChapterThree.csproj",
+              "RelativeToolTip": "ChapterThree.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T03:05:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ChapterThree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:45:12.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
